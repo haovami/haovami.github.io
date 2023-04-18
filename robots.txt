@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://seo.tranvanhao.com/sitemap.xml
+Sitemap: https://vamiqa.com/sitemap.xml
